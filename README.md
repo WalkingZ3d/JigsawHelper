@@ -1,9 +1,6 @@
 # JigsawHelper
 
-# Project Title
-Jigsaw Helper
-
-#Project Description
+## Project Description
 Jigsaw Helper is an application that assist users with a jigsaw puzzle. This is achieved by comparing the pixles of each image (piece against final completed image from the box) generated and populated into arrays.
 
 An edge detector (Sobel) is used to determine if the piece has an edge, as this can reduce the serach necesary.
